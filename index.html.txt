@@ -1,0 +1,67 @@
+
+    <h1>Bite Into Happiness</h1>
+    <p>Juicy, cheesy, flame-grilled burgers made with love.</p>
+    <a href="https://wa.me/0588388310" class="btn">Order Now</a>
+  </section>
+
+  <section id="menu" class="menu">
+    <h2>Our Bestsellers</h2>
+    <div class="menu-items">
+      <div class="item">
+        <<img src="images/Double Beef Blast.png" alt="Double Beef Blast" />
+<h3>Double Beef Blast</h3>
+        <p>$5.99</p><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Burger Hut</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <header>
+    <div class=<img src="images/Logo.png" alt="Burger Hut Logo" />
+</div>
+    <nav>
+      <a href="#menu">Menu</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section <img src="images/cheseburger.jpg" alt="Cheeseburger" />
+<h3>Cheeseburger</h3>>
+      </div>
+      <div class="item">
+      <img src="images/Classic Burger.png" alt="Classic Burger" />
+<h3>Classic Burger</h3>
+        <p>$6.99</p>
+      </div>
+      <div class="item">
+        <img src="images/Cheesy Melt.png" alt="Cheesy Melt" />
+<h3>Cheesy Melt</h3>
+        <p>$7.99</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="about" class="about">
+    <h2>About Burger Hut</h2>
+    <p>We started with one mission: serve burgers that make people smile. From local ingredients to world-class flavor, every bite tells a story.</p>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>Find Us</h2>
+    <p>📍 Burger Street, Food City, 12345</p>
+    <p>📞 Call: +971 58 838 310</p>
+    <p>🕒 Open: 12pm - 11pm daily</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Burger Hut. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
